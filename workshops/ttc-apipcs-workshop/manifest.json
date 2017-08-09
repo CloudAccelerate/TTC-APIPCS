@@ -16,14 +16,14 @@
             {
                 "number": "100",
                 "filename": "ics100.md",
-                "title": "Lab 100: Exploring ICS",
-                "description": "This lab will expose you to the functionality in ICS."
+                "title": "Lab 100: Simple API Development",
+                "description": "In this Lab we are going to develop a simple HelloWorld API using ICS. Lab will give you an overview of some of the ICS features that can be used to create API's."
             },
             {
                 "number": "200",
                 "filename": "ics200.md",
-                "title": "Lab 200: Basic ICS Development",
-                "description": "In this Lab we are going to build a 'hello world' echo service."
+                "title": "Lab 200: API Implementation",
+                "description": "In this Lab we are going to implement the API so that we can manage and secure the simple API created in Lab 100."
             }
         ]
     }
