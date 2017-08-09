@@ -1,6 +1,6 @@
 {
     "workshop": {
-        "title": "Cloud Accelerate: Oracle API & Integration Day - Hands On Lab Workshop",
+        "title": "Cloud Accelerate: Oracle API & Integration Day - Hands On Lab",
         "description": "A hands-on event to explore Oracle’s API Platform and Integration Cloud Services.",
         "labs": [{
                 "number": "1",
