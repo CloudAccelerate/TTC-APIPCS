@@ -24,6 +24,12 @@
                 "filename": "ics200.md",
                 "title": "Lab 200: API Implementation",
                 "description": "In this Lab we are going to implement the API so that we can manage and secure the simple API created in Lab 100."
+            },
+            {
+                "number": "300",
+                "filename": "ics300.md",
+                "title": "Lab 300: API Policies",
+                "description": "In this Lab we are going to apply policies to govern the API we created in Lab 200."
             }
         ]
     }
