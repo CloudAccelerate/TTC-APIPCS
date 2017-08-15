@@ -22,6 +22,8 @@ This hands-on lab will allow participants to do the following:
 - Add Policies to the API using APIPCS
 - Test added Policies using Postman Client Software
 
+![](images/overview-image.png)
+
 ## Get Started: 
 Open the navigation menu using the hamburger icon in the upper left of the menu bar to choose a lab guide and get started.
 
