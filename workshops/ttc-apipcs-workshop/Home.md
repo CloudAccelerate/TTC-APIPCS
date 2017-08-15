@@ -1,5 +1,5 @@
 ![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png) 
-> Updated: August 9, 2017
+> Updated: August 15th, 2017
 
 # Cloud Accelerate: Oracle API & Integration Day - Hands On Lab
 A hands-on workshop to dive into development on Oracle's Cloud API and Integration Platforms
