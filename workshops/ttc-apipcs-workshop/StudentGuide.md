@@ -1,15 +1,15 @@
 <center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center> 
 
-Update: July 27, 2017
+Update: August 16, 2017
 
 # APIPCS / ICS Integration Workshop Prerequisites
 
 ## Required 3rd Party Testing Tools
 
-### Install Postman
+### Install Postman Chrome Plugin
 
-We will use SoapUI to test an ICS Soap Web Service integration.
-If you don't already have SoapUI installed on your workstation, you'll need to install it.
+We will use the Postman Chrome Browser Plugin to test an ICS REST Web Service integration.
+If you don't already have the Postman Chrome Plugin installed on your workstation, you'll need to install it.
 
 To install Postman for testing API and ICS integration, follow these instructions:
 
